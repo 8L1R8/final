@@ -7,7 +7,7 @@
 </head>
 <body>
 <h2>楽曲管理メニュー</h2>
-    <form action="CRUD-branch.php" method="post">
+    <form action="db-connect.php" method="post">
         <button type="submit" name="select">一覧</button>
         <button type="submit" name="insert">登録</button>
         <button type="submit" name="update">更新</button>
